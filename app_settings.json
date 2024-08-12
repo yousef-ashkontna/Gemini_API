@@ -1,0 +1,43 @@
+{
+    "font_size": 17,
+    "text_color": [
+        "(",
+        "0",
+        ",",
+        " ",
+        "0",
+        ",",
+        " ",
+        "0",
+        ",",
+        " ",
+        "0",
+        ")"
+    ],
+    "background_color": [
+        "(",
+        "2",
+        "5",
+        "5",
+        ",",
+        " ",
+        "2",
+        "5",
+        "5",
+        ",",
+        " ",
+        "2",
+        "5",
+        "5",
+        ",",
+        " ",
+        "2",
+        "5",
+        "5",
+        ")"
+    ],
+    "verbosity_level": "basic",
+    "language": "en",
+    "theme": "light",
+    "Capture image details Choice": "Gemini_detections"
+}
